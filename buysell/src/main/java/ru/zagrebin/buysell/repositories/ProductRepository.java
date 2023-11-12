@@ -1,7 +1,7 @@
 package ru.zagrebin.buysell.repositories;
 
-import ru.zagrebin.buysell.models.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
+import ru.zagrebin.buysell.models.Product;
 
 import java.util.List;
 
